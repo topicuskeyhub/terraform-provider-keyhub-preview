@@ -193,8 +193,8 @@ github.com/stretchr/testify v1.5.1/go.mod h1:5W2xD1RspED5o8YsWQXVCued0rvSQ+mT+I5
 github.com/stretchr/testify v1.6.1/go.mod h1:6Fq8oRcR53rry900zMqJjRRixrwX3KX962/h/Wwjteg=
 github.com/stretchr/testify v1.7.2/go.mod h1:R6va5+xMeoiuVRoj+gSkQ7d3FALtqAAGI1FQKckRals=
 github.com/stretchr/testify v1.8.4 h1:CcVxjf3Q8PM0mHUKJCdn+eZZtm5yQwehR5yeSVQQcUk=
-github.com/topicuskeyhub/sdk-go v0.28.1 h1:TXpkypK2KiH/9fnlEd9SFfXR/cK63RnCe6eqVR0Ew8k=
-github.com/topicuskeyhub/sdk-go v0.28.1/go.mod h1:nP1C2RvZXfnEPjFy5AfdLJIWaM6IQAyar1pVbgPXsMg=
+github.com/topicuskeyhub/sdk-go v0.29.0 h1:7Bh1lELwba7XkpDP5JvABPAafPR2X12mO9sCpYTeZ6o=
+github.com/topicuskeyhub/sdk-go v0.29.0/go.mod h1:2QIWeohtyf6BtluHpYoUcvpR27BKPMTp1FKrgtgBl20=
 github.com/vmihailenco/msgpack v3.3.3+incompatible/go.mod h1:fy3FlTQTDXWkZ7Bh6AcGMlsjHatGryHQYUTf1ShIgkk=
 github.com/vmihailenco/msgpack v4.0.4+incompatible h1:dSLoQfGFAo3F6OoNhwUmLwVgaUXK79GlxNBwueZn0xI=
 github.com/vmihailenco/msgpack v4.0.4+incompatible/go.mod h1:fy3FlTQTDXWkZ7Bh6AcGMlsjHatGryHQYUTf1ShIgkk=
