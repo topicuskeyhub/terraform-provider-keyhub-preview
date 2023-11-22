@@ -8,7 +8,7 @@ require (
 	github.com/hashicorp/terraform-plugin-framework v1.4.2
 	github.com/hashicorp/terraform-plugin-framework-validators v0.12.0
 	github.com/hashicorp/terraform-plugin-log v0.9.0
-	github.com/microsoft/kiota-abstractions-go v1.5.0
+	github.com/microsoft/kiota-abstractions-go v1.5.1
 	github.com/topicuskeyhub/sdk-go v0.29.1-0.20231115090905-2e3dacc95093
 	github.com/topicuskeyhub/terraform-provider-keyhub-generator v0.0.8
 	golang.org/x/exp v0.0.0-20231110203233-9a3e6036ecaa
@@ -68,13 +68,13 @@ require (
 	github.com/russross/blackfriday v1.6.0 // indirect
 	github.com/shopspring/decimal v1.3.1 // indirect
 	github.com/spf13/cast v1.5.0 // indirect
-	github.com/std-uritemplate/std-uritemplate/go v0.0.46 // indirect
+	github.com/std-uritemplate/std-uritemplate/go v0.0.47 // indirect
 	github.com/vmihailenco/msgpack/v5 v5.4.1 // indirect
 	github.com/vmihailenco/tagparser/v2 v2.0.0 // indirect
 	github.com/zclconf/go-cty v1.14.1 // indirect
-	go.opentelemetry.io/otel v1.20.0 // indirect
-	go.opentelemetry.io/otel/metric v1.20.0 // indirect
-	go.opentelemetry.io/otel/trace v1.20.0 // indirect
+	go.opentelemetry.io/otel v1.21.0 // indirect
+	go.opentelemetry.io/otel/metric v1.21.0 // indirect
+	go.opentelemetry.io/otel/trace v1.21.0 // indirect
 	golang.org/x/crypto v0.15.0 // indirect
 	golang.org/x/mod v0.14.0 // indirect
 	golang.org/x/net v0.18.0 // indirect
