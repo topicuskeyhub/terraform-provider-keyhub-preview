@@ -3,12 +3,12 @@ module github.com/topicuskeyhub/terraform-provider-keyhubpreview
 go 1.20
 
 require (
-	github.com/google/uuid v1.4.0
+	github.com/google/uuid v1.5.0
 	github.com/hashicorp/terraform-plugin-docs v0.16.0
 	github.com/hashicorp/terraform-plugin-framework v1.4.2
 	github.com/hashicorp/terraform-plugin-framework-validators v0.12.0
 	github.com/hashicorp/terraform-plugin-log v0.9.0
-	github.com/microsoft/kiota-abstractions-go v1.5.3
+	github.com/microsoft/kiota-abstractions-go v1.5.5
 	github.com/topicuskeyhub/sdk-go v0.30.1
 	github.com/topicuskeyhub/terraform-provider-keyhub-generator v0.0.8
 	golang.org/x/exp v0.0.0-20231127185646-65229373498e
@@ -68,7 +68,7 @@ require (
 	github.com/russross/blackfriday v1.6.0 // indirect
 	github.com/shopspring/decimal v1.3.1 // indirect
 	github.com/spf13/cast v1.5.0 // indirect
-	github.com/std-uritemplate/std-uritemplate/go v0.0.47 // indirect
+	github.com/std-uritemplate/std-uritemplate/go v0.0.50 // indirect
 	github.com/vmihailenco/msgpack/v5 v5.4.1 // indirect
 	github.com/vmihailenco/tagparser/v2 v2.0.0 // indirect
 	github.com/zclconf/go-cty v1.14.1 // indirect
