@@ -3,15 +3,15 @@ module github.com/topicuskeyhub/terraform-provider-keyhubpreview
 go 1.20
 
 require (
-	github.com/google/uuid v1.4.0
+	github.com/google/uuid v1.6.0
 	github.com/hashicorp/terraform-plugin-docs v0.16.0
 	github.com/hashicorp/terraform-plugin-framework v1.4.2
 	github.com/hashicorp/terraform-plugin-framework-validators v0.12.0
 	github.com/hashicorp/terraform-plugin-log v0.9.0
-	github.com/microsoft/kiota-abstractions-go v1.5.3
-	github.com/topicuskeyhub/sdk-go v0.30.1
-	github.com/topicuskeyhub/terraform-provider-keyhub-generator v0.0.8
-	golang.org/x/exp v0.0.0-20231127185646-65229373498e
+	github.com/microsoft/kiota-abstractions-go v1.5.6
+	github.com/topicuskeyhub/sdk-go v0.31.0
+	github.com/topicuskeyhub/terraform-provider-keyhub-generator v1.0.12
+	golang.org/x/exp v0.0.0-20240119083558-1b970713d09a
 )
 
 require (
@@ -24,14 +24,14 @@ require (
 	github.com/bgentry/speakeasy v0.1.0 // indirect
 	github.com/cjlapao/common-go v0.0.39 // indirect
 	github.com/cloudflare/circl v1.3.3 // indirect
-	github.com/coreos/go-oidc/v3 v3.8.0 // indirect
+	github.com/coreos/go-oidc/v3 v3.9.0 // indirect
 	github.com/fatih/color v1.16.0 // indirect
-	github.com/getkin/kin-openapi v0.120.0 // indirect
+	github.com/getkin/kin-openapi v0.123.0 // indirect
 	github.com/go-jose/go-jose/v3 v3.0.1 // indirect
-	github.com/go-logr/logr v1.3.0 // indirect
+	github.com/go-logr/logr v1.4.1 // indirect
 	github.com/go-logr/stdr v1.2.2 // indirect
-	github.com/go-openapi/jsonpointer v0.20.0 // indirect
-	github.com/go-openapi/swag v0.22.4 // indirect
+	github.com/go-openapi/jsonpointer v0.20.2 // indirect
+	github.com/go-openapi/swag v0.22.8 // indirect
 	github.com/golang/protobuf v1.5.3 // indirect
 	github.com/hashicorp/errwrap v1.1.0 // indirect
 	github.com/hashicorp/go-checkpoint v0.5.0 // indirect
@@ -55,8 +55,8 @@ require (
 	github.com/mailru/easyjson v0.7.7 // indirect
 	github.com/mattn/go-colorable v0.1.13 // indirect
 	github.com/mattn/go-isatty v0.0.20 // indirect
-	github.com/microsoft/kiota-http-go v1.1.1 // indirect
-	github.com/microsoft/kiota-serialization-json-go v1.0.4 // indirect
+	github.com/microsoft/kiota-http-go v1.3.0 // indirect
+	github.com/microsoft/kiota-serialization-json-go v1.0.5 // indirect
 	github.com/mitchellh/cli v1.1.5 // indirect
 	github.com/mitchellh/copystructure v1.2.0 // indirect
 	github.com/mitchellh/go-testing-interface v1.14.1 // indirect
@@ -68,22 +68,22 @@ require (
 	github.com/russross/blackfriday v1.6.0 // indirect
 	github.com/shopspring/decimal v1.3.1 // indirect
 	github.com/spf13/cast v1.5.0 // indirect
-	github.com/std-uritemplate/std-uritemplate/go v0.0.47 // indirect
+	github.com/std-uritemplate/std-uritemplate/go v0.0.50 // indirect
 	github.com/vmihailenco/msgpack/v5 v5.4.1 // indirect
 	github.com/vmihailenco/tagparser/v2 v2.0.0 // indirect
 	github.com/zclconf/go-cty v1.14.1 // indirect
-	go.opentelemetry.io/otel v1.21.0 // indirect
-	go.opentelemetry.io/otel/metric v1.21.0 // indirect
-	go.opentelemetry.io/otel/trace v1.21.0 // indirect
-	golang.org/x/crypto v0.16.0 // indirect
+	go.opentelemetry.io/otel v1.22.0 // indirect
+	go.opentelemetry.io/otel/metric v1.22.0 // indirect
+	go.opentelemetry.io/otel/trace v1.22.0 // indirect
+	golang.org/x/crypto v0.18.0 // indirect
 	golang.org/x/mod v0.14.0 // indirect
-	golang.org/x/net v0.19.0 // indirect
-	golang.org/x/oauth2 v0.15.0 // indirect
-	golang.org/x/sys v0.15.0 // indirect
+	golang.org/x/net v0.20.0 // indirect
+	golang.org/x/oauth2 v0.16.0 // indirect
+	golang.org/x/sys v0.16.0 // indirect
 	golang.org/x/text v0.14.0 // indirect
 	google.golang.org/appengine v1.6.8 // indirect
 	google.golang.org/genproto/googleapis/rpc v0.0.0-20231127180814-3a041ad873d4 // indirect
 	google.golang.org/grpc v1.59.0 // indirect
-	google.golang.org/protobuf v1.31.0 // indirect
+	google.golang.org/protobuf v1.32.0 // indirect
 	gopkg.in/yaml.v3 v3.0.1 // indirect
 )
